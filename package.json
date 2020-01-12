@@ -1,0 +1,25 @@
+{
+  "name": "webpack_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taehoon7289/webpack-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taehoon7289/webpack-demo/issues"
+  },
+  "homepage": "https://github.com/taehoon7289/webpack-demo#readme",
+  "devDependencies": {
+    "css-loader": "^3.4.2",
+    "style-loader": "^1.1.2",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  }
+}
